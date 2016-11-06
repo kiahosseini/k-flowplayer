@@ -1,0 +1,8 @@
+{
+    "name": "k-flowplayer",
+    "main": "",
+    "ignore": [
+        ".gitignore",
+        "bower.json"
+    ]
+}
